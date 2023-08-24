@@ -211,4 +211,3 @@ Scaling and transformation involve changing the scale or values of a variable.
 
 ---
 
-I hope this expanded README provides a comprehensive overview of the topics in statistics, linear algebra, calculus, numerical optimization, and measurement theory. Remember, each of these topics can be explored in much greater depth, and this README serves as a starting point or quick reference guide.
