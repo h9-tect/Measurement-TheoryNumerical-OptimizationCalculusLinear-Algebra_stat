@@ -1,8 +1,8 @@
 # Statistics in ML & DL Cheat Sheet
 
 ## Table of Contents
-1. [Basics (From Scratch)](#basics-from-scratch)
-2. [Advanced](#advanced)
+1. [Basics (Statistics From Scratch)](#basics-from-scratch)
+2. [Advanced statistics](#advanced)
 3. [Linear Algebra](#linear-algebra)
 4. [Calculus](#calculus)
 5. [Numerical Optimization](#numerical-optimization)
